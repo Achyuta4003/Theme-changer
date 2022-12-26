@@ -1,3 +1,7 @@
+# Theme Changer App
+
+This project is a implementation of light and dark mode using React js Context API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
